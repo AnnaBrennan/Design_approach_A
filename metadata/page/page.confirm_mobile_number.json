@@ -10,17 +10,17 @@
           "_id": "page.confirm_mobile_number--radios.auto_name__8--radio.auto_value__3",
           "_type": "radio",
           "label": "Yes, this is my number",
-          "value": "auto_value__3"
+          "value": "yes"
         },
         {
           "_id": "page.confirm_mobile_number--radios.auto_name__8--radio.auto_value__4",
           "_type": "radio",
           "label": "No, i need to change this number",
-          "value": "auto_value__4"
+          "value": "no"
         }
       ],
-      "legend": "A text message will be sent to 00000 000 000",
-      "name": "auto_name__8"
+      "legend": "A text message will be sent to {mobile}",
+      "name": "mobile_correct"
     }
   ],
   "heading": "Make sure this is right",

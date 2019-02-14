@@ -1,0 +1,12 @@
+{
+  "_id": "page.first_time_user_mobile_wrong",
+  "_type": "page.exit",
+  "body": "[Go back to **Your mobile phone number** entry](/first_time_user_your_mobile_phone_number)",
+  "heading": "WRONG MOBILE BOUNCE PAGE",
+  "show": {
+    "identifier": "mobile_correct",
+    "operator": "is",
+    "value": "no"
+  },
+  "url": "first_time_user_mobile_wrong"
+}

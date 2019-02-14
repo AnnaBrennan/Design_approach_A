@@ -10,17 +10,17 @@
           "_id": "page.confirm_email_address_option2--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes, this is my email address",
-          "value": "auto_value__1"
+          "value": "yes"
         },
         {
           "_id": "page.confirm_email_address_option2--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No, change my email address",
-          "value": "auto_value__2"
+          "value": "no"
         }
       ],
-      "legend": "An email will be sent to {{email address}}.",
-      "name": "auto_name__1"
+      "legend": "An email will be sent to {email}.",
+      "name": "email_correct"
     }
   ],
   "heading": "Make sure this is right",

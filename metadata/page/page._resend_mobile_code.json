@@ -1,0 +1,7 @@
+{
+  "_id": "page._resend_mobile_code",
+  "_type": "page.exit",
+  "body": "[Back to **Check your mobile** page](/first_time_user_check_your_mobile)",
+  "heading": "CODE NOT RECEIVED BOUNCE PAGE",
+  "url": "/resend_mobile_code"
+}

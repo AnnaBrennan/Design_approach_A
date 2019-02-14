@@ -2,6 +2,6 @@
   "_id": "page.returning_user_new_code",
   "_type": "page.content",
   "body": "If you did not receive the text message, you can send a new code.",
-  "heading": "Send new security code",
+  "heading": "New security code sent",
   "url": "returning_user_new_code"
 }

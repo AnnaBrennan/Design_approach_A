@@ -8,7 +8,7 @@
       "_type": "email",
       "hint": "Make sure only you can access it",
       "label": "Email address",
-      "name": "auto_name__4"
+      "name": "signin_email"
     }
   ],
   "enableSteps": true,
