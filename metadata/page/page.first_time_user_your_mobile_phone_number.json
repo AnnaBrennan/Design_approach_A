@@ -14,7 +14,6 @@
   "heading": "Your mobile phone number",
   "steps": [
     "page.confirm_mobile_number",
-    "page.first_time_user_mobile_wrong",
     "page.first_time_user_check_your_mobile",
     "page.first_time_user_resend_code",
     "page.form_question1"

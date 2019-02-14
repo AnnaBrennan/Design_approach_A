@@ -1,7 +1,10 @@
 {
   "_id": "page.email_resent",
-  "_type": "page.content",
-  "body": "We've resent you a link.\r\n\r\nIt can take a few minutes to arrive.",
-  "heading": "Email resent",
+  "_type": "page.form",
+  "body": "If you did not receive the email message, you can send a new one.",
+  "heading": "Send new email",
+  "nextPage": [
+    "page.test"
+  ],
   "url": "email_resent"
 }
