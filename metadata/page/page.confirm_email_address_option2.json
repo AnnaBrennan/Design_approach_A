@@ -1,0 +1,28 @@
+{
+  "_id": "page.confirm_email_address_option2",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.confirm_email_address_option2--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.confirm_email_address_option2--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes, this is my email address",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.confirm_email_address_option2--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No, change my email address",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "An email will be sent to {{email address}}.",
+      "name": "auto_name__1"
+    }
+  ],
+  "heading": "Make sure this is right",
+  "url": "confirm_email_address_option2"
+}

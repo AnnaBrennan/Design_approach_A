@@ -1,0 +1,7 @@
+{
+  "_id": "page.returning_user_resend_email",
+  "_type": "page.content",
+  "body": "We've resent you a link.\r\n\r\nIt can take a few minutes to arrive.",
+  "heading": "Email resent",
+  "url": "returning_user_resend_email"
+}

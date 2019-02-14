@@ -1,0 +1,16 @@
+{
+  "_id": "page.test",
+  "_type": "page.form",
+  "body": "Enter your email address.\r\n\r\nWe will send you a link to go back to your application.",
+  "components": [
+    {
+      "_id": "page.test--email.auto_name__3",
+      "_type": "email",
+      "hint": "Make sure only you can access it",
+      "label": "**Email address**",
+      "name": "auto_name__3"
+    }
+  ],
+  "heading": "Your email address",
+  "url": "test"
+}
