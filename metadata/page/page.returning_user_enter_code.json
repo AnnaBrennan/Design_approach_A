@@ -1,7 +1,7 @@
 {
   "_id": "page.returning_user_enter_code",
   "_type": "page.form",
-  "body": "We have sent a 5 digit security code by text to ********{{552}}.\r\n\r\nThis can take a minute or so to arrive.\r\n\r\nThis runs out in 24 hours.",
+  "body": "We have sent a 5 digit security code by text to {mobile}.\r\n\r\nThis can take a minute or so to arrive.\r\n\r\nThis runs out in 24 hours.",
   "components": [
     {
       "_id": "page.returning_user_enter_code--number.auto_name__5",

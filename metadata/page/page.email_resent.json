@@ -1,7 +1,8 @@
 {
   "_id": "page.email_resent",
   "_type": "page.form",
-  "body": "If you did not receive the email message, you can send a new one.",
+  "body": "If you did not receive the email message sent to {email}, you can send a new one.",
+  "continue": "button.send.email",
   "heading": "Send new email",
   "nextPage": [
     "page.Check_your_email"

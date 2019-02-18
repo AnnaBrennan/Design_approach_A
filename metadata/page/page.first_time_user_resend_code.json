@@ -1,7 +1,7 @@
 {
   "_id": "page.first_time_user_resend_code",
   "_type": "page.content",
-  "body": "If you did not receive the text message, you can send a new code.",
+  "body": "If you did not receive the text message sent to {mobile}, you can send a new code.",
   "enableSteps": true,
   "heading": "Send new security code",
   "nextPage": [
