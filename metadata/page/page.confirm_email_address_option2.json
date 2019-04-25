@@ -24,5 +24,15 @@
     }
   ],
   "heading": "Make sure this is right",
+  "nextPage": [
+    {
+      "condition": {
+        "identifier": "email_correct",
+        "operator": "is",
+        "value": "no"
+      },
+      "page": "page.test"
+    }
+  ],
   "url": "confirm_email_address_option2"
 }

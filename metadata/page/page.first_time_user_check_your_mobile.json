@@ -1,7 +1,7 @@
 {
   "_id": "page.first_time_user_check_your_mobile",
   "_type": "page.form",
-  "body": "We have sent a 5 digit security code by text to ********{{552}}.\r\n\r\nThis can take a minute or so to arrive.\r\n\r\nThis runs out in 24 hours.",
+  "body": "We have sent a 5 digit security code by text to {mobile}.\r\n\r\nThis can take a minute or so to arrive.\r\n\r\nThis runs out in 24 hours.",
   "components": [
     {
       "$component": true,
@@ -37,6 +37,14 @@
     }
   ],
   "enableSteps": true,
+  "extraComponents": [
+    {
+      "_id": "page.first_time_user_check_your_mobile--details",
+      "_type": "details",
+      "html": "The mobile number will be redacted - a mask will be applied so that is displayed as asterisks for all digits barring the last 3\r\n\r\neg.  ********123",
+      "summary": "Notes"
+    }
+  ],
   "heading": "Check your mobile",
   "steps": [],
   "url": "/first_time_user_check_your_mobile"

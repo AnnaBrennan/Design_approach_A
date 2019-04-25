@@ -19,10 +19,20 @@
           "value": "no"
         }
       ],
-      "legend": "A text message will be sent to {mobile}",
+      "legend": "A text message will be sent to {mobile}.",
       "name": "mobile_correct"
     }
   ],
   "heading": "Make sure this is right",
+  "nextPage": [
+    {
+      "condition": {
+        "identifier": "mobile_correct",
+        "operator": "is",
+        "value": "no"
+      },
+      "page": "page.first_time_user_your_mobile_phone_number"
+    }
+  ],
   "url": "confirm_mobile_number"
 }
