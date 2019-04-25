@@ -5,10 +5,10 @@
     {
       "_id": "page.start--content--2",
       "_type": "content",
-      "html": "[Return to an existing application](/returning_user) \r\n\r\nContinue completing an application you haven't submitted."
+      "html": "### Return to an existing application\r\n\r\nContinue an application you already started by signing in with (whatever they'll need to use). \r\n\r\n[Return to an existing application](/returning_user)."
     }
   ],
-  "heading": "Form title (approach A)",
+  "heading": "Apply for (insert later)",
   "lede": "Add intro copy relating to the form in question. Blurb about what the form is for.",
   "steps": [
     "page.test",
